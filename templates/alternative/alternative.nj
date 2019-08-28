@@ -1,4 +1,4 @@
-{% extends "lib/layout.nj" %}
+{% extends "lib/layout/layout.nj" %}
 
 {% block head %}
   <link rel="stylesheet" href="/templates/alternative/alternative.css" inline />
