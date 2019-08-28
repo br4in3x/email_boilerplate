@@ -1,4 +1,4 @@
-<table class="general-footer">
+<table role="presentation" class="general-footer">
   <tr>
     <tr>Footer</tr>
   </tr>
