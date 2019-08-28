@@ -1,0 +1,13 @@
+{% extends "lib/layout.nj" %}
+
+{% block head %}
+  <link rel="stylesheet" href="/templates/general/general.css" inline>
+{% endblock %}
+
+{% block header %}
+  <table class="general-header">
+    <tr>
+      <td>This is header</td>
+    </tr>
+  </table>
+{% endblock %}

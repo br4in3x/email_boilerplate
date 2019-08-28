@@ -1,0 +1,17 @@
+{% extends "lib/layout.nj" %}
+
+{% block head %}
+  <link rel="stylesheet" href="/templates/alternative/alternative.css" inline />
+{% endblock %}
+
+{% block header %}
+  <table class="general-header">
+    <tr>
+      <td>This is header</td>
+    </tr>
+  </table>
+{% endblock %}
+
+{% block content %}
+  Hello from email!
+{% endblock %}
