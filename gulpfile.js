@@ -22,7 +22,7 @@ function build() {
 }
 
 function watch() {
-  return gulp.watch(["./templates/**/*.nj", "./lib"], build);
+  return gulp.watch(["./templates", "./lib"], build);
 }
 
 exports.build = build;
