@@ -1,5 +1,5 @@
 <table role="presentation" class="general-footer">
   <tr>
-    <tr>Footer</tr>
+    <td>Footer</td>
   </tr>
 </table>
