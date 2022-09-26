@@ -12,7 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-inline-css": "^3.3.2",
+    "gulp-inline-css": "^4.0.0",
     "gulp-inline-source": "^4.0.0",
     "gulp-nunjucks-render": "^2.2.3"
   }
